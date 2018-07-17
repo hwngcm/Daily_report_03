@@ -30,4 +30,9 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  app: "Daily Report"
+  base: "Report System"
+  home: "Home"
+  login: "Login"
+  hello: "Hello"
+  content: "This is Report System"

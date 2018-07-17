@@ -1,0 +1,7 @@
+vi:
+  app: "Daily Report"
+  base: "Report System"
+  home: "Trang chủ"
+  login: "Đăng nhập"
+  hello: "Xin chào"
+  content: "Đây là Report System"
