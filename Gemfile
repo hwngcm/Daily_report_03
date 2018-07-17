@@ -18,6 +18,9 @@ gem "bootstrap-sass", "3.3.7"
 gem "rails-i18n", "~> 5.1"
 gem "jquery-rails"
 gem "font-awesome-rails"
+gem "bcrypt", "3.1.11"
+gem "faker"
+
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
