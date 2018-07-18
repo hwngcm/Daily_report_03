@@ -1,0 +1,7 @@
+user:
+  name:
+    max_name: 255
+  email:
+    max_email: 255
+  password:
+    min_password: 6
